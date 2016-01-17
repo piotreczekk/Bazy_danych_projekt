@@ -1,0 +1,29 @@
+body  { width:860px; }
+header { width:center; height: 80px; text-align:center }
+ 
+nav { height : 900px; width:200px; float:left;  }
+nav p { padding:5px; margin:0px }
+
+section { display:block; float:left; height:500px; width:650px; color:navy; }
+section header { font-weight: bold;  text-align:center; width:600px; height:50px; }
+section h1 { color:navy; font-size:12pt; text-align:center }
+section h2 { color:green; font-size:12pt; text-align:center}
+section p.italic { font-style:italic }
+
+footer {position: absolute;
+    bottom: -500px;
+    left: 0;
+    right: 0;
+    height:10px;
+	padding :10px;
+    background:#777;
+	color:blue;
+text-align:center }
+
+dt { font-weight: bold; }
+dd { font-style: italic; }
+div.main { padding-left: 15px; }
+p.point { font-weight: bold; }
+p.text { padding-left: 30px; } 
+
+
